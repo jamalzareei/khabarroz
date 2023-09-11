@@ -1,0 +1,14 @@
+/* 
+    Document   : print
+    Created on : Aug 19, 2015, 11:39:00 PM
+    Author     : jamal
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+*{display:none;}
+.jumbotron{display:block;text-align: right;direction: rtl}
